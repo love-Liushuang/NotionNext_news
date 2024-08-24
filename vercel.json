@@ -1,5 +1,10 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "headers": []
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "headers": [],
+    "git": {
+        "deploymentEnabled": {
+            "main": false
+        }
+    }
 }
